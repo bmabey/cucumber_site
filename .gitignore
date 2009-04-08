@@ -1,2 +1,4 @@
 deploy.sh
 *.sw?
+_site/
+_drafts/
